@@ -94,3 +94,5 @@ streamlit run made_thread.py
 ## Background
 
 This project was developed as a prototype during a **major field training program at the University of Macau**. The goal was to explore how AI and voice interfaces can be used to create interactive educational tools in a gaming/hospitality context — while also promoting awareness of responsible gambling habits.
+
+The project was presented as part of the program's final showcase, and upon completion, received a **letter of recommendation issued under the name of the University of Macau**.
